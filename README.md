@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"  />
+  <img height="222" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"  />
 </div>
 
 ###
@@ -58,10 +58,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ehabyousef&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="140" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ehabyousef&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=10" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ehabyousef&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="140" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ehabyousef&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false" height="140" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ehabyousef&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=6" height="145" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ehabyousef&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false" height="140" alt="languages graph"  />
 </div>
 
 ###
