@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! <br>I'm Ihab Yousef<br>I'm a Front-end developer (React js)<br>from Egypt</h2>
+<h2 align="center">Hi 👋! <br>I'm Ihab Yousef<br>I'm a Front-end developer (React js)</h2>
 
 ###
 
