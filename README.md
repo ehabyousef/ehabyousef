@@ -58,10 +58,15 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ehabyousef&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false" height="140" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ehabyousef&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=6" height="145" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ehabyousef&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false" height="140" alt="languages graph"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ehabyousef&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=7&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ehabyousef&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false" height="145" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ehabyousef&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false" height="145" alt="languages graph"  />
 </div>
 
 ###
