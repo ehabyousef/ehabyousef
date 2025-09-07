@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! <br>I'm Ehab Yousef<br>a Front-end developer (React js)</h2>
+<h2 align="center">Hi 👋! <br>I'm Ehab Yousef<br>a Full-Stack(MERN) developer (React js)</h2>
 
 ###
 
