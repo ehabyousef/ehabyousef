@@ -89,11 +89,6 @@
 
 ![Streak Stats](https://streak-stats.demolab.com?user=ehabyousef&theme=tokyonight&hide_border=true&border_radius=7)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehabyousef&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=00000000)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ehabyousef&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ehabyousef&theme=tokyo-night&hide_border=true&bg_color=00000000&color=0EA5E9&point=0EA5E9&line=0EA5E9" alt="Contribution Graph" />
-
 </div>
 
 ---
